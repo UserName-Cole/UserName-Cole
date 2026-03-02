@@ -1,4 +1,4 @@
-<img src="persona_3_loop.gif" alt="Persona 3 Loop" height="450px" width="100%">
+<img src="persona_3_loop.gif" alt="Persona 3 Loop" height="300px" width="100%">
 
 # Cole Naidoo
 Interested in Cybersecurity | Data Science | Application Development | Astronomy | Artificial Intelligence | Robotics | Anime | Video Games  
